@@ -1,0 +1,6 @@
+opencv-python==4.1.2.30
+numpy==1.18.5
+argparse
+keras==2.3.0
+scipy==1.4.1
+tensorflow==2.0.0
